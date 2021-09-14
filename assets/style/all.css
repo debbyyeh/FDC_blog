@@ -15692,6 +15692,10 @@ table {
   opacity: 0.5;
 }
 
+.white-space {
+  white-space: nowrap;
+}
+
 .title-l {
   font-size: 36px;
   line-height: 54px;
